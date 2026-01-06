@@ -13,9 +13,9 @@ This repository contains the source code for the paper:
 *   **Real-World Ready:** Includes a **Java implementation** tested on Android Smartwatches.
 
 ## 📂 Project Structure
-*   `/Matlab_Source`: The core algorithm implementation and evaluation scripts (reproduces Table 2 & 3 in the paper).
+*   `WFPV_OVD_PISC.m`: The core algorithm implementation and evaluation scripts (reproduces Table 2 & 3 in the paper).
 *   `/Android_Java`: The ported Java class files suitable for Android WearOS deployment.
-*   `/Data`: (Optional) Links to the IEEE SPC dataset or sample data.
+*   `/all_data`: 2015 IEEE SPC datasets(all 23 recordings).
 
 ## 🛠️ Usage
 ### MATLAB
