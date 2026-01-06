@@ -29,5 +29,5 @@ The `HeartRateEstimator.java` class is a self-contained module.
 float[] ppgWindow = ...; // 8s PPG data
 float heartRate = estimator.estimate(ppgWindow);
 
-## 🔗 Citation
+###🔗 Citation
 If you use this code in your research, please cite our paper:
