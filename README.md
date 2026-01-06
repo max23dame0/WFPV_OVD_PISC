@@ -28,6 +28,18 @@ The `HeartRateEstimator.java` class is a self-contained module.
 // Example usage
 float[] ppgWindow = ...; // 8s PPG data
 float heartRate = estimator.estimate(ppgWindow);
+```
 
-###🔗 Citation
+## 🔗 Citation
 If you use this code in your research, please cite our paper:
+```bibtex
+@article{hao2026robust,
+  title={A Robust and Efficient Framework for Online Heart Rate Estimation from PPG Signals During Intensive Physical Exercise},
+  author={Hao, Zihao and Wang, Jinnan and Zhang, Ge and Gao, Lizhen and Zhang, Xiaoming and Liu, Jun and Zhang, Xiaoliang and Yang, Xiaolei and Lai, Zhengxi},
+  journal={Biomedical Signal Processing and Control},
+  year={2026},
+  note={Submitted}
+}
+```
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
