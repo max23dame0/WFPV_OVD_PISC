@@ -22,13 +22,9 @@ This repository contains the source code for the paper:
 ### MATLAB
 Run `WFPV_OVD_PISC.m` to process the dataset.
 
-### Java (Android)
-The `HeartRateEstimator.java` class is a self-contained module.
-```java
-// Example usage
-float[] ppgWindow = ...; // 8s PPG data
-float heartRate = estimator.estimate(ppgWindow);
-```
+### Java (Android Deployment)
+See Android_Java/README.md
+
 
 ## 🔗 Citation
 If you use this code in your research, please cite our paper:
