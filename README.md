@@ -19,8 +19,7 @@ This repository contains the source code for the paper:
 
 ## 🛠️ Usage
 ### MATLAB
-1. Run `main.m` to process the dataset.
-2. Adjust parameters in `config.m` if needed.
+Run `WFPV_OVD_PISC.m` to process the dataset.
 
 ### Java (Android)
 The `HeartRateEstimator.java` class is a self-contained module.
