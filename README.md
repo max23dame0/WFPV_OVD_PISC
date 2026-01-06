@@ -17,7 +17,7 @@ This repository contains the source code for the paper:
 *   `/Android_Java`: The ported Java class files suitable for Android WearOS deployment.
 *   `/all_data`: 2015 IEEE SPC datasets(all 23 recordings).
 *   `/Results`: MATLAB results.
-*   
+
 ## 🛠️ Usage
 ### MATLAB
 Run `WFPV_OVD_PISC.m` to process the dataset.
