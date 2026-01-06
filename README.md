@@ -16,7 +16,8 @@ This repository contains the source code for the paper:
 *   `WFPV_OVD_PISC.m`: The core algorithm implementation and evaluation scripts (reproduces Table 2 & 3 in the paper).
 *   `/Android_Java`: The ported Java class files suitable for Android WearOS deployment.
 *   `/all_data`: 2015 IEEE SPC datasets(all 23 recordings).
-
+*   `/Results`: MATLAB results.
+*   
 ## 🛠️ Usage
 ### MATLAB
 Run `WFPV_OVD_PISC.m` to process the dataset.
@@ -34,7 +35,7 @@ If you use this code in your research, please cite our paper:
 ```bibtex
 @article{hao2026robust,
   title={A Robust and Efficient Framework for Online Heart Rate Estimation from PPG Signals During Intensive Physical Exercise},
-  author={Hao, Zihao and Wang, Jinnan and Zhang, Ge and Gao, Lizhen and Zhang, Xiaoming and Liu, Jun and Zhang, Xiaoliang and Yang, Xiaolei and Lai, Zhengxi},
+  author={Xiao Ma},
   journal={Biomedical Signal Processing and Control},
   year={2026},
   note={Submitted}
